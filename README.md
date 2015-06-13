@@ -1,19 +1,19 @@
 # bitbairro
-BitBairro—feira ponta a ponta via whatsapp para comunidades locais
+BitBairro—feira ponta a ponta via telegram para comunidades locais
 
 ## Como funciona
 
-BitBairro é um *protocolo distribuído de troca*, implementável por comunidades locais através de chat móvel em grupo (ex.: whatsapp).
+BitBairro é um *protocolo distribuído de troca*, implementável por comunidades locais através de chat móvel em grupo (ex.: telegram, whatsapp).
 
 **Implementar é fácil:**
 
 1. Forke este repositório.
-1. Crie um grupo de whatsapp com o nome "Bit" + nome do bairro/prédio/condomínio/empresa/etc. Ex.: BitBarão. Use este nome para o repositório forkado (ex.: `bitbarao`).
+1. Crie um grupo de telegram com o nome "Bit" + nome do bairro/prédio/condomínio/empresa/etc. Ex.: BitBarão. Use este nome para o repositório forkado (ex.: `bitbarao`).
 1. Pense em pessoas que você conhece e que moram em um raio de 2km de você (de preferência que tenha carro).
 1. Encontre cada uma, instale o app [Copay](https://copay.io/) no celular dela e transfira 10 reais ou mais de cortesia mostrando todos os passos dos dois lados para a pessoa para que ela entenda como funciona.
 1. Ensine a pessoa a conseguir mais bitcoins em serviços online.
 1. Leia este documento com a pessoa.
-1. Adiciona a pessoa ao grupo de whatsapp.
+1. Adiciona a pessoa ao grupo de telegram.
 
 **No dia-a-dia:**
 
